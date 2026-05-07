@@ -1,0 +1,7 @@
+.env
+ven/
+__pycache__/
+*.pyc
+tmp_*.pdf
+tmp_*.txt
+tmp_*.docx
